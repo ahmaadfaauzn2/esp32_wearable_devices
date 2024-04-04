@@ -56,11 +56,3 @@ Contributions to this project are welcome! If you have ideas for improvements or
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-### Acknowledgments
-
-- Special thanks to [ahmaadfaauzn2](https://github.com/ahmaadfaauzn2) for creating and sharing this repository.
-
----
-
-Feel free to customize this README with additional information or sections as needed.
